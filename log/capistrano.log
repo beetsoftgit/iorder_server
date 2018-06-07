@@ -1,0 +1,16 @@
+# Logfile created on 2018-06-07 19:21:48 +0900 by logger.rb/56815
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-06-07 19:21:48 +0900 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [6a8ee5b1] Running /usr/bin/env mkdir -p /tmp as shimizu@52.221.181.136
+ DEBUG [6a8ee5b1] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-06-07 19:29:34 +0900 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b1229a9f] Running /usr/bin/env mkdir -p /tmp as shimizu@52.221.181.136
+ DEBUG [b1229a9f] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2018-06-07 19:31:30 +0900 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [7c06a22a] Running /usr/bin/env mkdir -p /tmp as shimizu@52.221.181.136
+ DEBUG [7c06a22a] Command: /usr/bin/env mkdir -p /tmp
